@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.button-bca:hover{
+    background-color: #111111;
+    color: antiquewhite;
+}
+
+.button-bca {
+    /* width: 100% !important; */
+    background-color: black;
+    border-color: black;
+    color: aliceblue;
+    padding: 15px;
+    font-size: 2em;
+    cursor: pointer;
+    float: right;
+    text-decoration:none!important; 
+}
